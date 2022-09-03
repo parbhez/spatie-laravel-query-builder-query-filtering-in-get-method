@@ -1,0 +1,6 @@
+
+https://spatie.be/docs/laravel-query-builder/v5/features/filtering
+
+https://www.youtube.com/watch?v=BBsPQrYgYHE&list=PL6tf8fRbavl2GvIq1gytedVUnuymWCpWz&index=32 //video source link
+
+composer show spatie/laravel-query-builder
